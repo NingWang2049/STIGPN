@@ -12,9 +12,9 @@ Space-Time Interaction Graph Parsing Networks for Human-Object Interaction Recog
     ```
 ### Prepare Data
 1. Follow [here](https://github.com/praneeth11009/LIGHTEN-Learning-Interactions-with-Graphs-and-Hierarchical-TEmporal-Networks-for-HOI) to prepare the original data of CAD120 dataset in `CAD120/datasets` folder.
-2. You can also download the data we have processed directly from [here]{https://pan.baidu.com/s/1uRP7GCBBL5Eb0Fi7c362oA}.
-3. We also provide some checkpoints to the trained models. Download them [here]{https://pan.baidu.com/s/1uRP7GCBBL5Eb0Fi7c362oA} and put them in the checkpoints folder
-4. extraction code: 1rly
+2. You can also download the data we have processed directly from [here]{https://pan.baidu.com/s/1iiHu_zDqGttS4XmFkGp23g}.
+3. We also provide some checkpoints to the trained models. Download them [here]{https://pan.baidu.com/s/1iiHu_zDqGttS4XmFkGp23g} and put them in the checkpoints folder
+4. extraction code: g6lw
 ### Training
 For the CAD120 dataset:
     ```
